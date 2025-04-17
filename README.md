@@ -1,4 +1,4 @@
-# Serverless-Bing-API
+# Bing API
 
 Bing API Service! Serverless!
 
@@ -28,3 +28,6 @@ Bing API Service! Serverless!
 
 [GNU GENERAL PUBLIC LICENSE V3](LICENSE)
 
+请注意，本程序仅作为学习交流使用，图片内容和版权归作者所有
+本程序仅按照原样返回信息
+本程序作者不对您使用本程序产生的任何后果负责
