@@ -29,5 +29,8 @@ You'll need to prepare a Cloudflare account and follow the steps below to comple
 
 ## License
 
+[GNU GENERAL PUBLIC LICENSE V3](LICENSE)
 
-[GNU GENERAL PUBLIC LICENSE V3] (LICENSE)
+Please note that this program is for learning and communication purposes only, the content and copyright of the pictures belong to the author.
+This program only returns the information as it is.
+The author of this program is not responsible for any consequences arising from your use of this program.
